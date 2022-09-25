@@ -1,3 +1,12 @@
+```{r}
+title: "Case 1"
+author: "[119]"
+format: pdf
+echo: true
+output: true
+editor: visual
+```
+
 Denne oppgaven er tilpasset fra [Case 1](https://uit-sok-1004-h21.github.io/case_1_bnp.html), skrevet av Øystein Myrland for kurset SOK-1004, høsten 2021. Eventuelle feil og mangler er mine egne. Rett spørsmål og kommentarer til [even.c.hvinden\@uit.no](mailto:even.c.hvinden@uit.no).
 
 ## Instruksjoner
